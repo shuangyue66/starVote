@@ -1,0 +1,12 @@
+{
+  "name": "star-vote-server",
+  "version": "1.0.0",
+  "script": "",
+  "dependencies": {
+    "@koa/cors": "^2.2.2",
+    "koa": "^2.6.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0"
+  }
+}
